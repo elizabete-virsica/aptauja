@@ -40,4 +40,4 @@ Implementācija: funkcijas `includes/functions.php`, izmantotas failos `create.p
 4. Reģistrējies, ielogojies un izveido aptauju. Datubāze izveidojas automātiski.
 5. Funkcijas: izveidot aptauju (3 jautājumu tipi), aizpildīt kā respondents, skatīt diagrammas, noteikt termiņu, eksportēt CSV, rediģēt/dzēst (tikai kamēr nav atbilžu).
 
-Koda repozitorijs: *(ievieto saiti)*
+Koda repozitorijs: https://github.com/elizabete-virsica/aptauja
